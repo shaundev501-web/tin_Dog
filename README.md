@@ -1,7 +1,5 @@
 # tin_Dog
 
-Udemy course Section 7 "tindog"(Intermediate bootstrap)
-
 A theoretical dating site for dogs to meet other dogs. Site Consists of 7 sections:
 
     Header
